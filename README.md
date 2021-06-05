@@ -1,7 +1,7 @@
 # PySimpleGUI Music Player
 Um player de música feito 100% em python e PySimpleGUI
 
-![Music Player](https://i.ibb.co/v38GPKX/Screenshot-5.png)
+![Music Player](https://i.ibb.co/jWX52DD/Screenshot-from-2021-06-05-20-04-20.png)
 
 # Como usar(How to use)
 
