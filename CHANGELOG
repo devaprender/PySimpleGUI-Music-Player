@@ -1,0 +1,8 @@
+1.1.0
+    - Using classes for organization (@gustavo-bordin)
+    - Pausing/Playing with the same button (@gustavo-bordin)
+    - Caching the musics directory (@gustavo-bordin)
+    - Adjusted paths to work in unix-based systems (@gustavo-bordin)
+
+1.0.0
+    - First working version (@Jhonatan-de-Souza)
